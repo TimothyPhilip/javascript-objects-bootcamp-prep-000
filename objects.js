@@ -1,3 +1,3 @@
-var playlist =  
-songpair:
+var playlist ={  
+songpair:"song titles"
 }
