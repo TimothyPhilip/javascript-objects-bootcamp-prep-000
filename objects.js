@@ -1,5 +1,5 @@
 var playlist = {
-  Phil Ochs: "title"
+  PhilOchs: "title"
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
