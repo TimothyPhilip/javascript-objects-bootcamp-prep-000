@@ -1,3 +1,3 @@
 var playlist = {
-  names: title
+  names: "title"
 }
