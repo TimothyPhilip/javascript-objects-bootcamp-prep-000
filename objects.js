@@ -1,5 +1,5 @@
 var playlist = {
-artistname: 'song title'  
+Slowdive: 'song title'  
 }
 
 
