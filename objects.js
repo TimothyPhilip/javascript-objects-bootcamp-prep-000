@@ -1,4 +1,3 @@
-var playlist ={  
-  
+var playlist = Object({ artistnames:songtitles })
 }
 
